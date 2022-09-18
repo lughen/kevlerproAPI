@@ -19,7 +19,7 @@ namespace kevlerProducts.Controllers
         }
 
         [HttpGet("BrandList")]
-        public async Task<IActionResult> GetBrandList()
+        public async Task<IActionResult> GetBrandList()  
         {
             if (!ModelState.IsValid) return BadRequest(ModelState);
             var listBrand = await _brandService.Get();

@@ -1,11 +1,54 @@
 {
   "Version": 1,
-  "Hash": "+oZxG3uUwqBaVE4Wu+gMRl4b+0vARTP2F3seA0iIDWw=",
+  "Hash": "Gw4FTrkTEkJOD/YBUi33fmPykYghL+86SOsCUn54gUI=",
   "Source": "kevlerProducts",
   "BasePath": "_content/kevlerProducts",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "kevlerProducts\\wwwroot",
+      "Source": "kevlerProducts",
+      "ContentRoot": "C:\\Projects\\kevlerproAPI\\kevlerProducts\\wwwroot\\",
+      "BasePath": "_content/kevlerProducts",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projects\\kevlerproAPI\\kevlerProducts\\wwwroot\\Cusine\\Image.jpg",
+      "SourceId": "kevlerProducts",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\kevlerproAPI\\kevlerProducts\\wwwroot\\",
+      "BasePath": "_content/kevlerProducts",
+      "RelativePath": "Cusine/Image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Cusine\\Image.jpg"
+    },
+    {
+      "Identity": "C:\\Projects\\kevlerproAPI\\kevlerProducts\\wwwroot\\ProductsImages\\Image.jpg",
+      "SourceId": "kevlerProducts",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\kevlerproAPI\\kevlerProducts\\wwwroot\\",
+      "BasePath": "_content/kevlerProducts",
+      "RelativePath": "ProductsImages/Image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductsImages\\Image.jpg"
+    }
+  ]
 }

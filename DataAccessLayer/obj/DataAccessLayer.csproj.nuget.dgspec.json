@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Projects\\kevlerproAPI\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Projects\\kevlerproAPI\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Projects\\kevlerproAPI\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\Sir Lughen\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Projects\\kevlerproAPI\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Lughen\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\kevlerproAPI\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sir Lughen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lughen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\EntitiesClass\\EntitiesClass.csproj": {
-                "projectPath": "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\EntitiesClass\\EntitiesClass.csproj"
+              "C:\\Projects\\kevlerproAPI\\EntitiesClass\\EntitiesClass.csproj": {
+                "projectPath": "C:\\Projects\\kevlerproAPI\\EntitiesClass\\EntitiesClass.csproj"
               }
             }
           }
@@ -59,21 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\EntitiesClass\\EntitiesClass.csproj": {
+    "C:\\Projects\\kevlerproAPI\\EntitiesClass\\EntitiesClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\EntitiesClass\\EntitiesClass.csproj",
+        "projectUniqueName": "C:\\Projects\\kevlerproAPI\\EntitiesClass\\EntitiesClass.csproj",
         "projectName": "EntitiesClass",
-        "projectPath": "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\EntitiesClass\\EntitiesClass.csproj",
-        "packagesPath": "C:\\Users\\Sir Lughen\\.nuget\\packages\\",
-        "outputPath": "F:\\ProductProject\\ProjectWeb\\kevlerpro\\kevlerproAPI\\EntitiesClass\\obj\\",
+        "projectPath": "C:\\Projects\\kevlerproAPI\\EntitiesClass\\EntitiesClass.csproj",
+        "packagesPath": "C:\\Users\\Lughen\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\kevlerproAPI\\EntitiesClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sir Lughen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lughen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

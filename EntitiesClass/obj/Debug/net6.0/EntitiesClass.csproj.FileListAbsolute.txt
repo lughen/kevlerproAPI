@@ -26,3 +26,17 @@ F:\ProductProject\ProjectWeb\kevlerpro\kevlerproAPI\EntitiesClass\obj\Debug\net6
 F:\ProductProject\ProjectWeb\kevlerpro\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\EntitiesClass.pdb
 F:\ProductProject\ProjectWeb\kevlerpro\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\EntitiesClass.genruntimeconfig.cache
 F:\ProductProject\ProjectWeb\kevlerpro\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\ref\EntitiesClass.dll
+C:\Projects\kevlerproAPI\EntitiesClass\bin\Debug\net6.0\EntitiesClass.deps.json
+C:\Projects\kevlerproAPI\EntitiesClass\bin\Debug\net6.0\EntitiesClass.runtimeconfig.json
+C:\Projects\kevlerproAPI\EntitiesClass\bin\Debug\net6.0\EntitiesClass.dll
+C:\Projects\kevlerproAPI\EntitiesClass\bin\Debug\net6.0\EntitiesClass.pdb
+C:\Projects\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\EntitiesClass.csproj.AssemblyReference.cache
+C:\Projects\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\EntitiesClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\EntitiesClass.AssemblyInfoInputs.cache
+C:\Projects\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\EntitiesClass.AssemblyInfo.cs
+C:\Projects\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\EntitiesClass.csproj.CoreCompileInputs.cache
+C:\Projects\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\EntitiesClass.dll
+C:\Projects\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\refint\EntitiesClass.dll
+C:\Projects\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\EntitiesClass.pdb
+C:\Projects\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\EntitiesClass.genruntimeconfig.cache
+C:\Projects\kevlerproAPI\EntitiesClass\obj\Debug\net6.0\ref\EntitiesClass.dll
